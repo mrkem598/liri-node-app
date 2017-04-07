@@ -1,4 +1,4 @@
-# liri-node-app
+### liri-node-app
 LIRI app is more of like cortana of Window 10 or siri of iPhone. LIRI will accept command-line input unlike the other two where they respond for speech input.
 
 Use the following Command to get some fun with this app
@@ -30,4 +30,4 @@ It's on Netflix!
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
 
-# Hopefully you have got some fun with this development. Fork the app if you wish to <a href="https://github.com/mrkem598/liri-node-app">by clicking #this link.</a>
+# Hopefully you have got some fun with this development. Fork the app if you wish to <a href="https://github.com/mrkem598/liri-node-app">by clicking this link.</a>
