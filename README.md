@@ -2,8 +2,7 @@
 LIRI app is more of like cortana of Window 10 or siri of iPhone. LIRI will accept command-line input unlike the other two where they respond for speech input.
 
 Use the following Command to get some fun with this app
-  ## node liri.js my-tweets
-This will show your last 20 tweets and when they were created at in your terminal/bash window.
+  
   ## node liri.js spotify-this-song '<song name here>'
 This will show the following information about the song in your terminal/bash window
 Artist(s)
